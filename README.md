@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="96" alt="YouTube Clarity logo" />
+  <img src="assets/logo.svg" width="96" alt="YouTube Clarity logo" />
+  
 </p>
 
 <p align="center">
@@ -58,13 +59,13 @@ YouTube Clarity replaces the busy YouTube homepage with a focused, distractionâ€
 Add your images to `assets/` and they will render here.
 
 <p align="center">
-  <img src="assets/hero.png" width="800" alt="YouTube Clarity hero screenshot" />
+  <img src="assets/hero.svg" width="800" alt="YouTube Clarity hero screenshot" />
 </p>
 
 You can also include additional views:
 
-- `assets/hero-searching.png` (search with suggestions)
-- `assets/side-by-side.png` (comparison with default homepage)
+- `assets/hero-searching.svg` (search with suggestions)
+- `assets/side-by-side.svg` (comparison with default homepage)
 
 ## Privacy Policy
 
@@ -75,7 +76,7 @@ See `privacy_policy.md` for details.
 This repository doubles as the public landing page. To update visuals:
 
 1. Create an `assets/` folder at the repo root (if it doesn't exist).
-2. Add images named like `logo.png`, `hero.png`, `hero-searching.png`, `side-by-side.png`.
+2. Add images named like `logo.svg` (provided), `hero.svg` (provided), `hero-searching.svg` (provided), `side-by-side.svg` (provided) or swap with your own PNG/JPGs and update the paths above.
 3. Commit and push â€” the README will display them automatically.
 
 ## Install

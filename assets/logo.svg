@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="YouTube Clarity logo">
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="200" height="200" fill="#0b0b0b"/>
+  <g filter="url(#shadow)">
+    <path d="M150 30 L170 70 C160 92 140 106 110 114 C86 120 60 114 42 98 C27 84 20 67 20 50 C20 33 27 16 42 2 C62 -16 92 -4 92 -4" fill="none"/>
+    <!-- Stylized C -->
+    <path d="M160 50 L140 10 C125 2 108 -2 90 0 C48 6 16 40 16 82 C16 126 52 162 96 164 C121 166 142 158 160 146 L180 186 C158 200 130 208 98 206 C42 202 -2 156 0 100 C2 46 44 4 98 0 C130 -2 158 8 180 24 Z" fill="#000"/>
+    <circle cx="100" cy="100" r="34" fill="#ff3b30"/>
+    <path d="M160 50 L140 10" fill="none" stroke="#000" stroke-width="0"/>
+  </g>
+</svg>
+

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="YouTube Clarity hero">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b0b0b"/>
+      <stop offset="100%" stop-color="#111"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#fff" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <g transform="translate(800,350)" text-anchor="middle" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    <text x="0" y="0" font-size="88" fill="#ffffff" filter="url(#glow)"><tspan>YouTube </tspan><tspan fill="#ff3b30" font-weight="700">Clarity</tspan></text>
+  </g>
+
+  <!-- Search bar -->
+  <g transform="translate(800,470)">
+    <rect x="-420" y="-30" rx="22" ry="22" width="840" height="60" fill="#1b1b1b" stroke="#2563eb" stroke-opacity="0.6"/>
+    <text x="-390" y="8" fill="#9ca3af" font-size="22" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">Search</text>
+    <circle cx="395" cy="0" r="16" fill="#0f172a" stroke="#334155"/>
+    <path d="M403 6 l10 10" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="395" cy="0" r="8" fill="none" stroke="#64748b" stroke-width="3"/>
+  </g>
+</svg>
+

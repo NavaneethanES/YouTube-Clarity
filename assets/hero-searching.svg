@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="YouTube Clarity search suggestions">
+  <rect width="1600" height="900" fill="#0f0f0f"/>
+
+  <g transform="translate(800,320)" text-anchor="middle" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    <text x="0" y="0" font-size="80" fill="#ffffff"><tspan>YouTube </tspan><tspan fill="#ff3b30" font-weight="700">Clarity</tspan></text>
+  </g>
+
+  <!-- Search bar -->
+  <g transform="translate(800,440)">
+    <rect x="-420" y="-30" rx="22" ry="22" width="840" height="60" fill="#1b1b1b" stroke="#2563eb" stroke-opacity="0.6"/>
+    <text x="-390" y="8" fill="#e5e7eb" font-size="22" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">earth</text>
+    <circle cx="395" cy="0" r="16" fill="#0f172a" stroke="#334155"/>
+    <path d="M403 6 l10 10" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="395" cy="0" r="8" fill="none" stroke="#64748b" stroke-width="3"/>
+  </g>
+
+  <!-- Suggestion list -->
+  <g transform="translate(800,545)" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#d1d5db">
+    <rect x="-410" y="-10" width="820" height="240" rx="16" fill="#1f2937" stroke="#374151"/>
+    <g transform="translate(-380,20)" font-size="20">
+      <text y="0">earth</text>
+      <text y="34">earthquake today</text>
+      <text y="68">earth drawing</text>
+      <text y="102">earth day facts</text>
+      <text y="136">earth from space</text>
+    </g>
+  </g>
+</svg>
+

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="600" viewBox="0 0 1800 600" role="img" aria-label="Comparison with default homepage">
+  <rect width="1800" height="600" fill="#0b0b0b"/>
+  <!-- Left: Default homepage mock -->
+  <g transform="translate(0,0)">
+    <rect x="0" y="0" width="900" height="600" fill="#111"/>
+    <rect x="24" y="24" width="120" height="24" rx="6" fill="#1f2937"/>
+    <rect x="24" y="72" width="852" height="180" rx="12" fill="#1f2937"/>
+    <rect x="24" y="270" width="264" height="150" rx="12" fill="#1f2937"/>
+    <rect x="306" y="270" width="264" height="150" rx="12" fill="#1f2937"/>
+    <rect x="588" y="270" width="288" height="150" rx="12" fill="#1f2937"/>
+    <rect x="24" y="438" width="264" height="120" rx="12" fill="#1f2937"/>
+    <rect x="306" y="438" width="264" height="120" rx="12" fill="#1f2937"/>
+    <rect x="588" y="438" width="288" height="120" rx="12" fill="#1f2937"/>
+    <text x="450" y="24" dy="1.2em" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#9ca3af">Default YouTube homepage</text>
+  </g>
+
+  <!-- Right: Clarity -->
+  <g transform="translate(900,0)">
+    <rect x="0" y="0" width="900" height="600" fill="#0f0f0f"/>
+    <text x="450" y="240" text-anchor="middle" font-size="48" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#fff">YouTube <tspan fill="#ff3b30" font-weight="700">Clarity</tspan></text>
+    <rect x="180" y="300" width="540" height="52" rx="20" fill="#1b1b1b" stroke="#2563eb" stroke-opacity="0.6"/>
+    <text x="200" y="333" font-size="18" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#9ca3af">Search</text>
+    <text x="450" y="24" dy="1.2em" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#9ca3af">YouTube Clarity homepage</text>
+  </g>
+</svg>
+
